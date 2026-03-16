@@ -1,5 +1,130 @@
-# 💫 About Me:
-👋 Hi, I'm Devansh Om Saxena<br><br>💻 Computer Science & Engineering Student (Cloud Computing Specialization)<br>🚀 Passionate about AI, Full-Stack Development, Cloud Technologies, and Developer Tools<br>🏢 Founder of Pixadora Media – providing web development, app development, UI/UX design, and digital solutions<br>♟️ Chess enthusiast with experience in inter-school and inter-college competitions<br><br>🚀 About Me<br><br>🎓 3rd Year Computer Science Engineering Student at SRM University<br><br>☁️ Specializing in Cloud Computing<br><br>🔬 Interested in Artificial Intelligence, Machine Learning, and System Development<br><br>🛠️ Building projects involving AI systems, healthcare applications, and developer tools<br><br>📈 Passionate about technology, startups, and innovation<br><br>💻 Current Focus<br><br>🏥 Developing MediCare – Healthcare Consultation & Appointment System with LLM Chatbot<br><br>🔐 Building an AI-Powered Password Strength Analyzer using Machine Learning<br><br>🍲 Working on AI Food Waste & Redistribution System<br><br>⚙️ Developing VSCode Extensions and automation tools<br><br>🛠️ Tech Stack<br><br>Languages: Python, JavaScript, Java<br><br>Frontend: React.js, HTML, CSS<br><br>Backend: Node.js, Flask<br><br>Database: MongoDB, MySQL<br><br>Cloud & Tools: AWS, Git, Docker, VSCode<br><br>🌱 Currently Learning<br><br>Advanced Machine Learning<br><br>Cloud Architecture & Microservices<br><br>AI Integration in Real-World Systems<br><br>📫 Connect With Me<br><br>💼 LinkedIn: (Add your LinkedIn here)
+💫 About Me
+
+👋 Hi, I'm Devansh Om Saxena
+
+💻 AI Software Developer | Full-Stack Engineer | Cloud Computing Enthusiast
+🎓 Computer Science & Engineering Student at SRM Institute of Science and Technology (CGPA: 9.2/10)
+🚀 Currently working on Enterprise AI Systems, Full-Stack Platforms, and Developer Tools
+
+I am passionate about Artificial Intelligence, Cloud Systems, and building scalable real-world applications that solve meaningful problems. I enjoy combining AI, backend engineering, and modern frontend technologies to create intelligent products.
+
+🚀 Professional Experience
+
+AI Software Developer – Research & Development, Nokia
+
+Developing an enterprise LLM + RAG powered chatbot for internal engineering workflows
+
+Building scalable APIs, retrieval pipelines, and intelligent conversational systems
+
+Integrating React frontend with Python backend to deliver context-aware AI experiences
+
+Software Engineer Intern – Intel Unnati
+
+Built “Integrated Common Services for Common People” Android application
+
+Developed using Java, XML, Android Studio with focus on real-world service accessibility
+
+Founder / Senior Associate – Pixadora Media
+
+Led 25+ successful technical projects in Web Development, Mobile Apps, and ML solutions
+
+Delivered solutions involving UI/UX, AI integrations, and full-stack systems
+
+🧠 What I Work On
+
+⚡ Artificial Intelligence & LLM Applications
+⚡ Full-Stack Web Platforms
+⚡ Cloud-Native Systems
+⚡ Developer Tools & Automation
+⚡ AI-Driven Problem Solving
+
+🛠 Tech Stack
+💻 Programming Languages
+
+Python
+
+Java
+
+C / C++
+
+JavaScript
+
+🌐 Web Development
+
+React.js
+
+HTML / CSS
+
+Node.js
+
+MongoDB
+
+📱 Android Development
+
+Java
+
+Kotlin
+
+XML
+
+Jetpack Compose
+
+Firebase
+
+🤖 AI & Cloud
+
+LLM Applications
+
+Retrieval Augmented Generation (RAG)
+
+AWS
+
+Firebase
+
+⚙ Tools & Platforms
+
+Git
+
+Docker
+
+VS Code
+
+Android Studio
+
+🚀 Featured Projects
+
+🏥 MediCare – Smart Healthcare Consultation Platform
+AI-powered healthcare system with doctor appointment booking, secure medical records, and an LLM chatbot.
+
+🚕 RideEase – Cab Booking Application
+Android ride booking app with real-time tracking, secure payments, and ride history using Firebase.
+
+🧠 MindfulVista – Mental Health Platform
+Interactive website promoting mental wellness with meditation, planners, journaling, and relaxation tools.
+
+💻 DevMatch – Hackathon & Event Portal
+Platform enabling streamlined hackathon and event management for university communities.
+
+🌱 Currently Exploring
+
+Advanced Machine Learning & Generative AI
+
+Cloud Architecture and Microservices
+
+AI-powered developer productivity tools
+
+Enterprise AI applications
+
+📫 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/devansh-om-saxena-4b5049280
+
+💻 GitHub:
+https://github.com/Devaofficial1408
+
+📧 Email:
+devansh.workplace14@gmail.com
 
 
 ## 🌐 Socials:
