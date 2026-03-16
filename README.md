@@ -2,15 +2,15 @@
 
 👋 Hi, I'm Devansh Om Saxena
 
-**💻 AI Software Developer | Full-Stack Engineer | Cloud Computing Enthusiast
+💻 AI Software Developer | Full-Stack Engineer | Cloud Computing Enthusiast
 🎓 Computer Science & Engineering Student at SRM Institute of Science and Technology (CGPA: 9.3/10)
-🚀 Currently working on Enterprise AI Systems, Full-Stack Platforms, and Developer Tools**
+🚀 Currently working on Enterprise AI Systems, Full-Stack Platforms, and Developer Tools
 
 I am passionate about Artificial Intelligence, Cloud Systems, and building scalable real-world applications that solve meaningful problems. I enjoy combining AI, backend engineering, and modern frontend technologies to create intelligent products.
 
-**🚀 Professional Experience**
+🚀 Professional Experience
 
-AI** Software Developer – Research & Development, Nokia**
+AI Software Developer – Research & Development, Nokia
 
 Developing an enterprise LLM + RAG powered chatbot for internal engineering workflows
 
@@ -18,13 +18,13 @@ Building scalable APIs, retrieval pipelines, and intelligent conversational syst
 
 Integrating React frontend with Python backend to deliver context-aware AI experiences
 
-**Software Engineer Intern – Intel Unnati**
+Software Engineer Intern – Intel Unnati
 
 Built “Integrated Common Services for Common People” Android application
 
 Developed using Java, XML, Android Studio with focus on real-world service accessibility
 
-**Founder / Senior Associate – Pixadora Media**
+Founder / Senior Associate – Pixadora Media
 
 Led 25+ successful technical projects in Web Development, Mobile Apps, and ML solutions
 
