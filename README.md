@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Om Saxena</h1>
-<h3 align="center">🤖 AI Software Developer at Nokia R&D — building enterprise LLM + RAG systems that power real engineering workflows. 🎓 CS @ SRM IST (9.3 GPA) | Full-Stack · Cloud · Android · GenAI 💡 From hackathon portals to healthcare AI — I ship products that matter.</h3>
+<h3 align="center">🤖 Associate Software Developer at Nokia R&D — building enterprise LLM and RAG systems that power real engineering workflows. 🎓 CS @ SRM IST (9.3 GPA) | Full-Stack · Cloud · Android · GenAI 💡 From hackathon portals to healthcare AI — I ship products that matter.</h3>
 
 - 🔭 I’m currently working in **Nokia**
 
